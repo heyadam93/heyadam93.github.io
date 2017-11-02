@@ -1,0 +1,51 @@
+*{
+  margin:0;
+  padding:0;
+}
+body {
+background-color: #002e14;
+}
+#wrapper{
+   width: 90%;
+   height: 925px;
+   margin:0 auto;
+   background-color: #FFFFFF
+}
+header{
+  height:125px;
+  background-color: #015f29;
+  padding-top: 25px;
+}
+#logo{
+  width: 100px;
+  height: 100px;
+  background-color: #FFFFFF;
+  margin-left: 50px;
+}
+nav{
+    height: 50px;
+  background-color: #39b54a;
+}
+main{
+  width: 65%;
+   height: 425px;
+   background-color: #FFFFFF;
+   float: left;
+   padding: 5%;
+}
+aside{
+  width: 25%;
+  height: 725px;
+  background-color: #b2b010;
+  float: left;
+}
+.pics{
+  width: 150px;
+  height: 150px;
+float: left;
+background-color: #000;
+}
+
+
+h2 {font-family: sans-serif;
+    color: green}
